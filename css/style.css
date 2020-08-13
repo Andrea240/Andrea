@@ -266,7 +266,7 @@ header {
 .search {
 	display: flex;
 	flex-wrap: wrap;
-	background: #002c68;
+	background: rgb(26 84 231);
 	flex-basis: 3.5%;
 
 }
@@ -277,7 +277,7 @@ header {
 .fa-search {
 	font-size: 1.7rem;
 	align-self: center;
-	color: rgb(26 84 231);
+	color: #fff;
 }
 .search_input {
 	display: block;

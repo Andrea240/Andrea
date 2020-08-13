@@ -266,7 +266,7 @@ header {
 .search {
 	display: flex;
 	flex-wrap: wrap;
-	background: rgb(246, 246, 246);
+	background: #002c68;
 	flex-basis: 3.5%;
 
 }
